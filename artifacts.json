@@ -3,5 +3,5 @@
     "project-repository": "https://github.com/pnair7/ml-fairness.git",
     "dockerhub-repository": "prnair/ml-fairness:latest",
     "project-website-url": "https://annemxu.github.io/ml-fairness/index.html",
-    "project-website-code": "https://github.com/pnair7/ml-fairness/tree/web"
+    "project-website-code": "https://github.com/pnair7/ml-fairness.git"
 }
